@@ -270,7 +270,7 @@ body {
 .speakers-section {
   padding: 15px;
   overflow: hidden;
-  height: 550px;
+  height: 750px;
   position: relative;
   transition: all 0.5ms ease;
 }
