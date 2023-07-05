@@ -56,6 +56,13 @@ const speakers = [
     specialty: 'Cynthia is also a senior lecturer at the Wisconsin University with a background in research methologies',
     picture: './assets/images/p-speaker-1.png',
   },
+  {
+    id: 7,
+    name: 'Anyars Yussif',
+    rank: 'Administrative Eexecutive at the World Bank',
+    specialty: 'Cynthia is also a senior lecturer at the Wisconsin University with a background in research methologies',
+    picture: './assets/images/p-mine.png',
+  },
 ];
 
 const speaker = document.querySelector('.list-speakers');

@@ -4,12 +4,12 @@
 
  <!-- LOGO -->
 
-  <img src="./assets/icons/My%20Logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./assets/icons/summit-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
 <!-- MAIN HEADING -->
 
-  <h3><b>Portfolio</b></h3>
+  <h3><b>Quiality Improvement Summit 2023</b></h3>
 
 </div>
 
@@ -37,14 +37,15 @@
 - [📝 License](#license)
 
 <!-- INTRO -->
-# 📖 Portfolio <a name="about-project"></a>
+# 📖 Quiality Improvement Summit 2023 <a name="about-project"></a>
 
-> This is a Portfolio project to showcase my skills, achievements and abilities.
-Watch this [Video](https://www.loom.com/share/d61ef8b260cf44faaad891c75b2531bc?sid=a04ee694-76da-4c31-b39f-248350f8136d) to learn more about the project.
+> This is a website about Quality Improvement Summit organised by Encarta Change Managers Incorporated.
+Watch this [Video](https://www.loom.com/share/4a2c119a3ce944cc8bb1beefbd2ff119) to learn more about the project.
 
 ## 🛠 Built With <a name="built-with"></a>
 1. HTML
 2. CSS
+3. JavaScript
 ### Tech Stack <a name="tech-stack"></a>
 
 > Tech Stack to be updated soon
@@ -54,6 +55,7 @@ Watch this [Video](https://www.loom.com/share/d61ef8b260cf44faaad891c75b2531bc?s
   <ul>
     <li><a href="https://reactjs.org/">HTML</a></li>
     <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="">JavaScript</a></li>
   </ul>
 </details>
 
@@ -61,8 +63,13 @@ Watch this [Video](https://www.loom.com/share/d61ef8b260cf44faaad891c75b2531bc?s
 
 ### Key Features <a name="key-features"></a>
 
-> - Added HTML
-> - Added CSS
+> - Dekstop view for the Home page
+> - Mobile view for the Home page
+> - Desktop view for the About page
+> - Mobile view for the About page
+> - Collapsing/Expanding of speakers list in Mobile view
+> - Automation of Hamburger menu in Mobile
+> - Dynamic creation of speakers using JavaScript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +77,7 @@ Watch this [Video](https://www.loom.com/share/d61ef8b260cf44faaad891c75b2531bc?s
 
 LIVE DEMO
 
-> [Visit live page of my Profile](https://anyars-encarta.github.io)
+> [Visit live page of the Quality Improvement Summit 2023](https://anyars-encarta.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +100,7 @@ Clone this repository to your desired folder using:
 
 ```sh
   cd my-folder
-  git clone https://github.com/anyars-encarta/anyars-encarta.github.io.git
+  git clone https://github.com/anyars-encarta/First-Capstone.git
 ```
 <!-- INSTALL -->
 
@@ -104,7 +111,7 @@ Install this project with the latest version of Git and a code editor.
 ### Usage
 
 To run the project, follow the link below:
-> [Visit live page of my Profile](https://anyars-encarta.github.io)
+> [Visit live page of the Quality Improvement Summit 2023](https://anyars-encarta.github.io)
 ### Deployment
 
 You can deploy this project using:
@@ -127,9 +134,12 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Skills**
-- [ ] **Achievements**
-- [ ] **Live Demos**
+- [ ] **Portal to join the Summit**
+- [ ] **Portal to book Tickets**
+- [ ] **Portal for news**
+- [ ] **Portal to sponsor the event**
+- [ ] **Portal for QI Campaign**
+- [ ] **Portal for Scheduling Event**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,20 +161,20 @@ Contributions, issues, and feature requests are welcome!
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Special acknowledgement to [@NoerGitKat](https://github.com/NoerGitKat) and [@microverseinc](https://github.com/microverseinc)
+> Special acknowledgement to [@Creative Commons license of the design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) and [@microverseinc](https://github.com/microverseinc)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQS -->
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **How were the Linters utilised?**
+- **What is the venue for event?**
 
-  - The Linters were utilised with the help of resources provided by [@microverseinc](https://github.com/microverseinc).
+  - The venue for this year's event is the International Conference Centre, Accra, Ghana, West Africa.
 
-- **What new features should be expected in the next release of the project?**
+- **How many sessions will the event have?**
 
-  - I am currently working on adding **Interactivity** and **Automations**.
+  - The event is scheduled to take place from 25th - 28th July, 2023 with 2 sessions per day.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

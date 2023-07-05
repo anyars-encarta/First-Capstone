@@ -116,6 +116,10 @@ body {
   line-height: 16.8px;
 }
 
+.corporate-logo {
+  display: none;
+}
+
 .header-section {
   margin-top: -20px;
   height: 886px;
@@ -492,6 +496,10 @@ body {
 
   .hamburger {
     display: none;
+  }
+
+  .corporate-logo {
+    display: inline;
   }
 
   .header-section {
