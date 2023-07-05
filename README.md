@@ -41,7 +41,7 @@
 
 > This is a website about Quality Improvement Summit 2023 organised by Encarta Change Managers Incorporated. The event aims at bringing individuals from different disciplines who are all passionate about Quality in all aspects of human endeavour.
 
-Watch this [Video](https://www.loom.com/share/4a2c119a3ce944cc8bb1beefbd2ff119) to learn more about the project.
+> Watch this [Video](https://www.loom.com/share/4a2c119a3ce944cc8bb1beefbd2ff119) to learn more about the project.
 
 ## 🛠 Built With <a name="built-with"></a>
 1. HTML
