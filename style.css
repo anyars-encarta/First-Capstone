@@ -45,7 +45,7 @@ body {
 
 .hamburger {
   display: block;
-  margin-left: -510px;
+  margin-left: -300px;
   margin-top: 20px;
 }
 
@@ -120,14 +120,14 @@ body {
 .header-section h2 {
   font-family: 'Lato', sans-serif;
   color: rgb(238, 73, 8);
-  font-size: 28px;
+  font-size: 20px;
   padding-top: 150px;
   margin-left: 23px;
 }
 
 .header-section h1 {
   font-family: 'Lato', sans-serif;
-  font-size: 60px;
+  font-size: 43px;
   font-weight: 900;
   color: #f8200899;
   background-clip: content-box;
@@ -142,7 +142,7 @@ body {
   border: 8px solid white;
   background-color: rgb(230, 220, 220);
   margin: 40px 20px 0 23px;
-  height: 150px;
+  height: 220px;
   padding: 20px;
   font-family: 'Lato', sans-serif;
   font-weight: 400;
@@ -153,7 +153,7 @@ body {
 
 .header-section h3 {
   font-family: 'Gothic A1', sans-serif;
-  font-size: 30px;
+  font-size: 22px;
   font-weight: 900;
   color: #cec5c5;
   margin: 48px 20px 0 23px;
@@ -161,7 +161,7 @@ body {
 
 .header-section h4 {
   font-family: 'Gothic A1', sans-serif;
-  font-size: 20px;
+  font-size: 14px;
   font-weight: 700;
   color: #cec5c5;
   margin: 0 20px 0 23px;

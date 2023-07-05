@@ -120,7 +120,7 @@ body {
 .header-section h2 {
   font-family: 'Lato', sans-serif;
   color: rgb(238, 73, 8);
-  font-size: 28px;
+  font-size: 22px;
   padding-top: 150px;
   width: 100%;
   margin-bottom: 50px;
@@ -129,7 +129,7 @@ body {
 
 .header-section h1 {
   font-family: 'Lato', sans-serif;
-  font-size: 50px;
+  font-size: 44px;
   font-weight: 900;
   color: #f8200899;
   margin: 0 20px 0 23px;
@@ -139,7 +139,7 @@ body {
 .about-section p {
   border: 8px solid white;
   margin: 0 10px 0 10px;
-  height: 150px;
+  height: 300px;
   padding: 20px;
   font-family: 'Lato', sans-serif;
   font-weight: 400;
@@ -197,8 +197,8 @@ body {
 }
 
 .about-logo img {
-  width: 375px;
-  height: 141.72px;
+  width: 275px;
+  height: 100.72px;
   margin-bottom: 150px;
 }
 
