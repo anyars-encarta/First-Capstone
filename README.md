@@ -78,7 +78,7 @@
 
 LIVE DEMO
 
-> [Visit live page of the Quality Improvement Summit 2023](https://anyars-encarta.github.io)
+> [Visit live page of the Quality Improvement Summit 2023](https://anyars-encarta.github.io/First-Capstone/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +112,7 @@ Install this project with the latest version of Git and a code editor.
 ### Usage
 
 To run the project, follow the link below:
-> [Visit live page of the Quality Improvement Summit 2023](https://anyars-encarta.github.io)
+> [Visit live page of the Quality Improvement Summit 2023](https://anyars-encarta.github.io/First-Capstone/)
 ### Deployment
 
 You can deploy this project using:
