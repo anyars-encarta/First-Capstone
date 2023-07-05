@@ -91,6 +91,10 @@ body {
   border-bottom: none;
 }
 
+.program-section a {
+  display: none;
+}
+
 .right-menu.active a {
   text-decoration: none;
   color: #272a31;
@@ -186,10 +190,6 @@ body {
   margin: auto;
   width: 30px;
   margin-bottom: 50px;
-}
-
-.program-section a {
-  display: none;
 }
 
 .program {
@@ -426,7 +426,7 @@ body {
     width: 120px;
     height: 45px;
   }
-  
+
   .right-bottom-menu {
     width: 70%;
     height: 100%;

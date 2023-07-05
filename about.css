@@ -91,6 +91,10 @@ body {
   border-bottom: none;
 }
 
+.contact-section a {
+  color: black;
+}
+
 .right-menu.active a {
   text-decoration: none;
   color: #272a31;
@@ -163,10 +167,6 @@ body {
 .contact-section strong {
   font-weight: bolder;
   text-decoration: underline;
-}
-
-.contact-section a {
-  color: black;
 }
 
 .about-logo {
@@ -402,7 +402,7 @@ body {
     width: 120px;
     height: 45px;
   }
-  
+
   .right-bottom-menu {
     width: 70%;
     height: 100%;
