@@ -161,7 +161,7 @@ Contributions, issues, and feature requests are welcome!
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Special acknowledgement to [@Creative Commons license of the design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) and [@microverseinc](https://github.com/microverseinc)
+> Special acknowledgement to [Creative Commons license of the design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) and [microverseinc](https://github.com/microverseinc)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
