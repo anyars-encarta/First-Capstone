@@ -69,15 +69,16 @@ const speaker = document.querySelector('.list-speakers');
 
 function addSpeakersToUI() {
   speaker.innerHTML = `${speakers.map((item) => (`<div class="speaker">
-    <img src='${item.picture}' alt="Picture of Speaker ${item.name}">
-    <div class="overlap"></div>
-    <div class="speaker-details">
-        <h3>${item.name}</h3>
-        <h4>${item.rank}</h4>
-        <hr>
-        <h5>${item.specialty}</h5>
-    </div>
-   </div>`)).join(' ')}`;
+  <img class="person" src='${item.picture}' alt="Picture of Speaker ${item.name}">
+  <img class="overlap" src="./assets/images/pattern.jpg" alt="">
+  <div class="overlap"></div>
+  <div class="speaker-details">
+      <h3>${item.name}</h3>
+      <h4>${item.rank}</h4>
+      <hr>
+      <h5>${item.specialty}</h5>
+  </div>
+</div>`)).join(' ')}`;
 }
 
 document.addEventListener('DOMContentLoaded', addSpeakersToUI);

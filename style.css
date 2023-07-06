@@ -306,7 +306,7 @@ body {
   position: relative;
 }
 
-.speaker img {
+.speaker .person {
   width: 180px;
   height: 180.4px;
   object-fit: cover;
@@ -314,7 +314,6 @@ body {
 }
 
 .overlap {
-  background-color: #f78c89;
   width: 100px;
   height: 100px;
   position: absolute;
@@ -703,7 +702,7 @@ body {
     position: relative;
   }
 
-  .speaker img {
+  .speaker .person {
     width: 200px;
     height: 200.4px;
     object-fit: cover;
@@ -712,7 +711,6 @@ body {
   }
 
   .overlap {
-    background-color: #f78c89;
     width: 100px;
     height: 100px;
     position: absolute;
