@@ -45,8 +45,8 @@ body {
 
 .hamburger {
   display: block;
-  margin-left: -300px;
-  margin-top: 20px;
+  float: left;
+  margin: 20px 0 0 20px;
 }
 
 .hamburger:hover {
@@ -196,10 +196,21 @@ body {
   line-height: 31px;
 }
 
-.about-logo img {
+.summit-logo {
+  border: 1px solid #d3d3d3;
+  padding: 6% 25%;
+  margin-bottom: 100px;
+}
+
+.summit-logo img {
   width: 275px;
   height: 100.72px;
-  margin-bottom: 150px;
+}
+
+.separator {
+  width: 100%;
+  max-width: 95%;
+  margin-bottom: 50px;
 }
 
 .past-events {
@@ -339,7 +350,7 @@ body {
   padding: 10px;
   margin-top: 20px;
   gap: 40px;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .rights img {
@@ -368,7 +379,7 @@ body {
 
   .top-nav {
     display: block;
-    background-color: #3e3e3e;
+    background-color: #272a31;
     padding: 5px;
   }
 
@@ -558,12 +569,25 @@ body {
     padding: 20px;
     line-height: 31px;
     width: 1000px;
+    margin-bottom: 70px;
   }
 
-  .about-logo img {
+  .summit-logo {
+    border: 1px solid #d3d3d3;
+    padding: 50px 150px;
+    margin-bottom: 100px;
+  }
+
+  .summit-logo img {
     width: 375px;
     height: 141.72px;
-    margin-bottom: 150px;
+    margin-bottom: 0;
+  }
+
+  .separator {
+    width: 100%;
+    max-width: 1200px;
+    margin-bottom: 50px;
   }
 
   .past-events {
@@ -692,11 +716,11 @@ body {
 
   .rights {
     display: flex;
-    padding: 50px 0 50px 0;
-    margin-top: 20px;
+    margin-top: 0;
     gap: 40px;
-    justify-content: center;
-    background-color: #414246;
+    justify-content: space-between;
+    padding: 50px 200px 50px 200px;
+    background-color: #272a31;
   }
 
   .rights img {

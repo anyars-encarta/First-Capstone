@@ -45,8 +45,8 @@ body {
 
 .hamburger {
   display: block;
-  margin-left: -300px;
-  margin-top: 20px;
+  float: left;
+  margin: 20px 0 0 20px;
 }
 
 .hamburger:hover {
@@ -392,7 +392,7 @@ body {
 
   .top-nav {
     display: block;
-    background-color: #3e3e3e;
+    background-color: #272a31;
     padding: 5px;
   }
 
@@ -402,9 +402,19 @@ body {
     align-items: flex-end;
     justify-content: right;
     list-style-type: none;
-    max-width: 1440px;
     margin: auto 20px auto 80px;
     padding-right: 140px;
+  }
+
+  .right-menu {
+    display: flex;
+    gap: 40px;
+    align-items: flex-end;
+    justify-content: right;
+    list-style-type: none;
+    padding-right: 140px;
+    margin: 0;
+    width: 100%;
   }
 
   .top-nav-menu a {
@@ -441,16 +451,6 @@ body {
     padding: 5px;
     height: 75px;
     width: 100%;
-  }
-
-  .right-menu {
-    display: flex;
-    justify-content: end;
-    list-style-type: none;
-    padding-right: 140px;
-    margin: 0;
-    width: 100%;
-    gap: 40px;
   }
 
   .bottom-nav-item {
@@ -795,10 +795,11 @@ body {
 
   .rights {
     display: flex;
-    padding: 10px;
-    margin-top: 20px;
     gap: 40px;
-    justify-content: center;
+    justify-content: space-between;
+    padding: 10px 200px 10px 200px;
+    background-color: #d3d3d3;
+    margin-top: 0;
   }
 
   .rights img {

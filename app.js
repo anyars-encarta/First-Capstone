@@ -60,7 +60,7 @@ const speakers = [
     id: 7,
     name: 'Anyars Yussif',
     rank: 'Administrative Eexecutive at the World Bank',
-    specialty: 'Cynthia is also a senior lecturer at the Wisconsin University with a background in research methologies',
+    specialty: 'Anyars is also a senior lecturer at the Wisconsin University with a background in research methologies',
     picture: './assets/images/p-mine.png',
   },
 ];

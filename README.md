@@ -162,7 +162,7 @@ Contributions, issues, and feature requests are welcome!
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Special acknowledgement to [Creative Commons](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) for the design inspiration and [microverseinc](https://github.com/microverseinc) for the design materials.
+> Special credit to [Cindy Shin](https://www.behance.net/adagio07) the [author of the original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) on [behance.net](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) used in this project and [microverseinc](https://github.com/microverseinc) for the design materials.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
