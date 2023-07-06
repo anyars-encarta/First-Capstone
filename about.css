@@ -389,9 +389,19 @@ body {
     align-items: flex-end;
     justify-content: right;
     list-style-type: none;
-    max-width: 1440px;
     margin: auto 20px auto 80px;
     padding-right: 140px;
+  }
+
+  .right-menu {
+    display: flex;
+    gap: 40px;
+    align-items: flex-end;
+    justify-content: right;
+    list-style-type: none;
+    padding-right: 140px;
+    margin: 0;
+    width: 100%;
   }
 
   .top-nav-menu a {
@@ -430,16 +440,6 @@ body {
     width: 100%;
   }
 
-  .right-menu {
-    display: flex;
-    justify-content: end;
-    list-style-type: none;
-    padding-right: 140px;
-    margin: 0;
-    width: 100%;
-    gap: 40px;
-  }
-
   .bottom-nav-item {
     padding: 20px;
   }
@@ -455,12 +455,14 @@ body {
     font-weight: 800;
     font-size: 14px;
     line-height: 16.8px;
+    padding: 8px 12px 8px 12px;
   }
 
   .right-menu .red {
     color: red;
     border: 2px solid red;
-    padding: 8px 12px 8px 12px;
+
+    /* padding: 8px 12px 8px 12px; */
   }
 
   .right-menu .red:hover {

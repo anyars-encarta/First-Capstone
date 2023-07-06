@@ -468,12 +468,14 @@ body {
     font-weight: 800;
     font-size: 14px;
     line-height: 16.8px;
+    padding: 8px 12px 8px 12px;
   }
 
   .right-menu .red {
     color: red;
     border: 2px solid red;
-    padding: 8px 12px 8px 12px;
+
+    /* padding: 8px 12px 8px 12px; */
   }
 
   .right-menu .red:hover {
