@@ -202,13 +202,12 @@ body {
   padding: 6% 25%;
   margin-bottom: 100px;
   width: 100%;
-  margin: 0 auto;
 }
 
 .summit-logo img {
   width: 275px;
   height: 100.72px;
-  margin-left: -50px;
+  margin: 0 auto;
 }
 
 .separator {
@@ -356,6 +355,7 @@ body {
   gap: 20px;
   justify-content: space-between;
   width: 100%;
+
   /* max-width: 00px; */
 }
 
@@ -546,6 +546,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
   }
 
   .about-logo h2 {
@@ -575,12 +576,19 @@ body {
     border: 1px solid #d3d3d3;
     padding: 50px 150px;
     margin-bottom: 100px;
+
+    /* justify-content: center;
+    align-items: center; */
+    width: 100%;
   }
 
   .summit-logo img {
     width: 375px;
     height: 141.72px;
     margin-bottom: 0;
+    margin-left: 35%;
+
+    /* margin: 0 auto; */
   }
 
   .separator {
