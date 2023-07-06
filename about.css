@@ -205,8 +205,8 @@ body {
 }
 
 .summit-logo img {
-  width: 275px;
-  height: 100.72px;
+  width: 175px;
+  height: 80.72px;
   margin: 0 auto;
 }
 
@@ -576,9 +576,6 @@ body {
     border: 1px solid #d3d3d3;
     padding: 50px 150px;
     margin-bottom: 100px;
-
-    /* justify-content: center;
-    align-items: center; */
     width: 100%;
   }
 
@@ -587,8 +584,6 @@ body {
     height: 141.72px;
     margin-bottom: 0;
     margin-left: 35%;
-
-    /* margin: 0 auto; */
   }
 
   .separator {
