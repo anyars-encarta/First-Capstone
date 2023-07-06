@@ -399,9 +399,9 @@ body {
     align-items: flex-end;
     justify-content: right;
     list-style-type: none;
-    padding-right: 140px;
     margin: 0;
     width: 100%;
+    padding: 0;
   }
 
   .top-nav-menu a {
@@ -425,10 +425,11 @@ body {
   }
 
   .right-bottom-menu {
-    width: 70%;
+    width: 100%;
     height: 100%;
     justify-content: end;
-    padding: 0;
+    padding-right: 160px;
+    margin-top: 20px;
   }
 
   .bottom-nav {
@@ -438,14 +439,6 @@ body {
     padding: 5px;
     height: 75px;
     width: 100%;
-  }
-
-  .bottom-nav-item {
-    padding: 20px;
-  }
-
-  .right-menu li {
-    border: none;
   }
 
   .right-menu a {
@@ -460,9 +453,7 @@ body {
 
   .right-menu .red {
     color: red;
-    border: 2px solid red;
-
-    /* padding: 8px 12px 8px 12px; */
+    border: 4px solid red;
   }
 
   .right-menu .red:hover {
