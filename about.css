@@ -197,23 +197,16 @@ body {
   line-height: 31px;
 }
 
-.summit-logo {
+.about-logo img {
+  width: 475px;
+  height: 180.72px;
   border: 1px solid #d3d3d3;
-  padding: 6% 25%;
-  margin-bottom: 100px;
-  width: 100%;
-}
-
-.summit-logo img {
-  width: 175px;
-  height: 80.72px;
-  margin: 0 auto;
+  padding: 30px 120px 30px 120px;
 }
 
 .separator {
   width: 100%;
-  max-width: 95%;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .past-events {
@@ -355,8 +348,6 @@ body {
   gap: 20px;
   justify-content: space-between;
   width: 100%;
-
-  /* max-width: 00px; */
 }
 
 .rights img {
@@ -572,24 +563,18 @@ body {
     margin-bottom: 70px;
   }
 
-  .summit-logo {
-    border: 1px solid #d3d3d3;
-    padding: 50px 150px;
-    margin-bottom: 100px;
-    width: 100%;
-  }
-
-  .summit-logo img {
+  .about-logo img {
     width: 375px;
-    height: 141.72px;
+    height: 160.72px;
     margin-bottom: 0;
-    margin-left: 35%;
+    border: 1px solid #d3d3d3;
+    padding: 40px 100px;
   }
 
   .separator {
     width: 100%;
-    max-width: 1200px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
+    border: 1px solid #d3d3d3;
   }
 
   .past-events {
